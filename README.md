@@ -12,4 +12,6 @@ Copy the code in `main.py` to the text editor.  In terminal, use the command `py
 
 ## Credits
 
+### Acknowledgements
+
 [FreeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
